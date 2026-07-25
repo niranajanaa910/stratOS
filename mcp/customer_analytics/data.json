@@ -1,0 +1,18 @@
+{
+  "customer_satisfaction": 87,
+  "monthly_active_users": 125000,
+  "churn_rate": 3.2,
+  "net_promoter_score": 52,
+  "top_requested_features": [
+    "AI Recommendations",
+    "Real-time Analytics",
+    "Mobile Dashboard"
+  ],
+  "customer_segments": [
+    "Enterprise",
+    "SMB",
+    "Startup"
+  ],
+  "growth_rate": "High",
+  "last_updated": "2026-07-25"
+}

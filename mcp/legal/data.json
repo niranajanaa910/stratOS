@@ -1,0 +1,13 @@
+{
+  "country": "Germany",
+  "business_registration_required": true,
+  "required_licenses": [
+    "Business Registration",
+    "Tax Registration",
+    "GDPR Compliance"
+  ],
+  "legal_risk": "Medium",
+  "contract_review_required": true,
+  "intellectual_property_risk": "Low",
+  "last_updated": "2026-07-25"
+}

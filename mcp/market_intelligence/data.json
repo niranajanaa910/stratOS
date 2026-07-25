@@ -1,0 +1,20 @@
+{
+  "market_growth": "High",
+  "market_size_usd": 250000000,
+  "competition_level": "Medium",
+  "top_competitors": [
+    "Competitor A",
+    "Competitor B",
+    "Competitor C"
+  ],
+  "average_competitor_price": 120,
+  "customer_demand": "High",
+  "emerging_trend": "AI-powered automation",
+  "recommended_regions": [
+    "Germany",
+    "Singapore",
+    "UAE"
+  ],
+  "risk_level": "Low",
+  "last_updated": "2026-07-25"
+}
