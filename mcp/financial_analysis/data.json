@@ -1,0 +1,14 @@
+{
+  "company": "StratOS Corp",
+  "currency": "USD",
+  "budget": 500000,
+  "cash_reserves": 1200000,
+  "annual_revenue": 4500000,
+  "annual_profit": 850000,
+  "profit_margin": 18.9,
+  "operating_cost": 275000,
+  "roi": 22,
+  "debt_ratio": 0.18,
+  "available_investment": 300000,
+  "last_updated": "2026-07-25"
+}
