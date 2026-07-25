@@ -1,0 +1,19 @@
+{
+    "countries": [
+        {
+            "name": "Germany",
+            "growth": "High",
+            "competition": "Medium"
+        },
+        {
+            "name": "India",
+            "growth": "Very High",
+            "competition": "High"
+        },
+        {
+            "name": "USA",
+            "growth": "Stable",
+            "competition": "High"
+        }
+    ]
+}
