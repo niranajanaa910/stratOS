@@ -1,0 +1,11 @@
+{
+  "total_employees": 180,
+  "engineering_team": 65,
+  "available_engineers": 14,
+  "open_positions": 8,
+  "average_utilization": 78,
+  "average_salary": 85000,
+  "attrition_rate": 4.2,
+  "hiring_budget": 250000,
+  "last_updated": "2026-07-25"
+}
